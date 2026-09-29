@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="390" viewBox="0 0 820 390"
+role="img" aria-label="Animated Neofetch-style developer profile for PriyankV25">
+<defs>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="1.1" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#0b0f0d"/><stop offset="1" stop-color="#111a14"/>
+  </linearGradient>
+  <style>
+    .m{font-family:"DejaVu Sans Mono","Liberation Mono",monospace}
+    .label{fill:#b7ffcf;font-weight:700}
+    .value{fill:#e7f5eb}
+    .ascii{fill:#b7ffcf;font-weight:700;filter:url(#glow)}
+    .cursor{animation:blink 1s steps(2,start) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .scan{animation:scan 4.8s linear infinite}
+    @keyframes scan{
+      from{transform:translateY(-70px);opacity:0}
+      20%{opacity:.16} 60%{opacity:.05}
+      to{transform:translateY(470px);opacity:0}
+    }
+  </style>
+</defs>
+
+<rect x="1" y="1" width="818" height="388" rx="11"
+      fill="url(#bg)" stroke="#6f8f79" stroke-width="1.5"/>
+
+<!-- Terminal header -->
+<rect x="1" y="1" width="818" height="34" rx="11" fill="#0e1510"/>
+<circle cx="21" cy="18" r="5" fill="#6f8f79"/>
+<circle cx="39" cy="18" r="5" fill="#6f8f79"/>
+<circle cx="57" cy="18" r="5" fill="#6f8f79"/>
+<text x="78" y="23" class="m" font-size="13" fill="#6f8f79">
+neofetch — PriyankV25
+</text>
+
+<!-- Developer mark -->
+<g class="m ascii" font-size="15">
+<text x="30" y="86">      ████████</text>
+<text x="30" y="105">    ██        ██</text>
+<text x="30" y="124">   ██   &lt;&gt;     ██</text>
+<text x="30" y="143">   ██  /██\    ██</text>
+<text x="30" y="162">    ██  ██   ██</text>
+<text x="30" y="181">      ████████</text>
+<text x="30" y="200">        ██</text>
+<text x="30" y="219">      ██████</text>
+</g>
+
+<text x="30" y="250" class="m" font-size="12" fill="#6f8f79">
+automation.engineering()
+</text>
+
+<!-- Profile info -->
+<text x="285" y="73" class="m label" font-size="16">
+PriyankV25@github.com
+</text>
+<line x1="285" y1="87" x2="780" y2="87" stroke="#6f8f79"/>
+
+<text x="285" y="113" class="m" font-size="13">
+<tspan class="label">role</tspan><tspan class="value">        Software Engineer</tspan>
+</text>
+
+<text x="285" y="138" class="m" font-size="13">
+<tspan class="label">focus</tspan><tspan class="value">       Automation • DevOps • Development • GenAI • Cloud</tspan>
+</text>
+
+<text x="285" y="163" class="m" font-size="13">
+<tspan class="label">os</tspan><tspan class="value">          Windows / macOS / Linux</tspan>
+</text>
+
+<text x="285" y="188" class="m" font-size="13">
+<tspan class="label">scripting</tspan><tspan class="value">    Python / PowerShell / Bash / CMD / C#</tspan>
+</text>
+
+<text x="285" y="213" class="m" font-size="13">
+<tspan class="label">editor</tspan><tspan class="value">       VS Code</tspan>
+</text>
+
+<text x="285" y="238" class="m" font-size="13">
+<tspan class="label">automation</tspan><tspan class="value">   Endpoint • Remediation • Installers</tspan>
+</text>
+<text x="398" y="260" class="m value" font-size="13">Agentic • Workflows</text>
+
+<text x="285" y="288" class="m" font-size="13">
+<tspan class="label">pipelines</tspan><tspan class="value">    Patch Intelligence • CI/CD</tspan>
+</text>
+<text x="398" y="310" class="m value" font-size="13">Observability • Deployments</text>
+
+<line x1="285" y1="330" x2="780" y2="330" stroke="#6f8f79" opacity=".5"/>
+
+<text x="285" y="354" class="m" font-size="12" fill="#b7ffcf">
+$ whoami <tspan class="value">Software Engineer</tspan><tspan class="cursor">█</tspan>
+</text>
+
+<rect class="scan" x="10" y="35" width="800" height="48"
+      fill="#b7ffcf" pointer-events="none"/>
+</svg>
