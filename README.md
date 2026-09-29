@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="./ascii.svg" width="370" alt="Animated ASCII portrait">
+</p>
 
 <!--
 **PriyankV25/PriyankV25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
