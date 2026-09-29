@@ -4,7 +4,7 @@
   <tr>
     <td align="center" valign="middle"
         style="border-right: 1px solid #1f9d5c; padding: 18px;">
-      <img src="./ascii.svg" width="320" alt="Animated ASCII portrait">
+      <img src="./ascii.svg" width="300" alt="Animated ASCII portrait">
     </td>
 
    <td align="center" valign="middle" style="padding: 18px;">
