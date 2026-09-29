@@ -1,10 +1,17 @@
 ## Hi there 👋
-<p align="center">
-  <img src="./ascii.svg" width="370" alt="Animated ASCII portrait">
-</p>
-<p align="center">
-  <img src="./info-card.svg" width="820" alt="PriyankV25 developer profile">
-</p>
+<table align="center" cellpadding="14" cellspacing="0"
+       style="border: 2px solid #39ff88; border-radius: 18px; background: #07110b;">
+  <tr>
+    <td align="center" valign="middle"
+        style="border-right: 1px solid #1f9d5c; padding: 18px;">
+      <img src="./ascii.svg" width="320" alt="Animated ASCII portrait">
+    </td>
+
+   <td align="center" valign="middle" style="padding: 18px;">
+      <img src="./info-card.svg" width="600" alt="PriyankV25 developer profile">
+    </td>
+  </tr>
+</table>
 
 <!--
 **PriyankV25/PriyankV25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
