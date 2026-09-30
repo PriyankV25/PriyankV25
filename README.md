@@ -165,7 +165,7 @@ Python PowerShell Bash C# CLI Automation Endpoint Management
 <br><br>
 ## 🏆 Recognition & Achievements
 
-<table> <tr> <td align="center" width="50%">
+<table> <tr> <td align="center">
 
 🥇 Catalyst in Client Engagement
 
@@ -175,7 +175,7 @@ January 2025
 
 </td>
 
-<td align="center" width="50%">
+<td align="center">
 
 🏆 Best Personality Award
 
