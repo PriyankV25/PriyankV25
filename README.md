@@ -162,6 +162,7 @@ Technologies
 
 Python PowerShell Bash C# CLI Automation Endpoint Management
 
+<br><br>
 ## 🏆 Recognition & Achievements
 
 <table> <tr> <td align="center" width="50%">
@@ -248,7 +249,7 @@ May 2023
 I enjoy working at the intersection of:
 
 **⚡ Automation** · **⚙️ DevOps** · **☁️ Cloud** · **📊 Data** · **🤖 AI**
-
+<br><br>
 ### 🎯 Engineering Principles
 
 | ⚡ Fast | 🔁 Repeatable | 📈 Scalable | 🔍 Observable | 🛡️ Reliable | 🧩 Maintainable |
@@ -256,15 +257,15 @@ I enjoy working at the intersection of:
 |  Speed |  Consistency  |    Growth   |   Visibility  |   Stability  |  Sustainability |
 
 ---
-
+<br><br>
 ## 🧪 Currently Exploring
 
-| ☁️ Cloud Engineering |   ☸️ DevOps   |   🤖 AI & Automation   |
-| :------------------: | :-----------: | :--------------------: |
-|          AWS         |   Kubernetes  |      Generative AI     |
-|         Azure        |     GitOps    | Intelligent Automation |
-|   Cloud Automation   |     CI/CD     |   AI-assisted DevOps   |
-|                      | Observability |    Automation Agents   |
+| ☁️ Cloud Engineering  |  ☸️ DevOps   |   🤖 AI & Automation   |
+| :------------------:  | :-----------: | :--------------------: |
+|          AWS          |   Kubernetes  |      Generative AI     |
+|         Azure         |     GitOps    | Intelligent Automation |
+| Google Cloud Platform |     CI/CD     |   AI-assisted DevOps   |
+|   Cloud Automation    | Observability |    Automation Agents   |
 
 <!--
 📊 GitHub Activity
@@ -275,7 +276,8 @@ I enjoy working at the intersection of:
 
 <p align="center"> <img src="https://raw.githubusercontent.com/PriyankV25/PriyankV25/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"> </p>
 -->
-📫 Connect With Me
+<br><br>
+## 📫 Connect With Me
 
 <p align="center">
 
