@@ -256,7 +256,7 @@ I enjoy working at the intersection of:
 | :----: | :-----------: | :---------: | :-----------: | :----------: | :-------------: |
 |  Speed |  Consistency  |    Growth   |   Visibility  |   Stability  |  Sustainability |
 
----
+
 <br><br>
 ## 🧪 Currently Exploring
 
